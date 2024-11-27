@@ -1,35 +1,35 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+title: Easy Notes
+publishDate: 2024-10-07 23:02:00
+img: /assets/1.png
+
+
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  It is a web application that manages students' grades and absences.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Dev Web
+  - Django
+  - HTML,CSS,JS
 ---
 
-## Level-two heading
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+![Description de l'image](/assets/2.png)
+![Description de l'image](/assets/3.png)
+![Description de l'image](/assets/4.png)
+![Description de l'image](/assets/5.png)
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
 
-### Level-three heading
+### Description of the application:
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+As part of this group project, we developed a web application with a server-side architecture using Django and a client-side setup based on HTML, CSS, and JavaScript. The teamwork was organized using Trello to ensure an efficient distribution of tasks. The application allows users to log in with a username and password, and it features three main interfaces. The first two are designed for professors and administrators, enabling them to add or remove students, manage grades, download reports, and generate detailed graphs and statistics. The third interface is for students, allowing them to view their grades, absences with corresponding dates, as well as their personal statistics.
 
-### Level-three heading
+In line with eco-friendly design principles, we incorporated several responsible features. The application defaults to a dark theme to reduce screen energy consumption, and it operates only from 7 a.m. to 9 p.m. to optimize resource usage. Additionally, eco-friendly tips are displayed at the bottom right of each interface to encourage users to adopt more sustainable habits.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+![Description de l'image](/assets/6.png)
+![Description de l'image](/assets/7.png)
+![Description de l'image](/assets/8.png)
+![Description de l'image](/assets/9.png)
+![Description de l'image](/assets/10.png)
